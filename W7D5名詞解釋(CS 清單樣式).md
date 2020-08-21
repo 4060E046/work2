@@ -1,4 +1,4 @@
-## CS 清單樣式
+## CSS 清單樣式
 
 #### list-style-type: 設定項目符號/編號樣式
 #### list-style-image: 設定項目符號/編號圖案
